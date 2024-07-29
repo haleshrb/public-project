@@ -1,3 +1,1 @@
-test jon
-# public-project
-lkk
+this is new shoppre project for testing 
